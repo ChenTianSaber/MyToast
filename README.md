@@ -28,7 +28,8 @@ Step 2. Add the dependency
  
 ####How to use:
 ![](http://wx3.sinaimg.cn/mw690/e21cb47egy1fczfnttsxij20u40800uo.jpg)
-There are six methods.  
+  
+There are six methods.  
 
 You can use makeMyToast(Context context,String text,int image,int toastStyle) to custom your Toast.  
 
