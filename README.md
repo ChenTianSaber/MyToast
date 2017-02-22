@@ -33,4 +33,6 @@ There are six methods.  
 
 You can use makeMyToast(Context context,String text,int image,int toastStyle) to custom your Toast.  
 
+Like that : MyToast.makeMyToast(this,"Hello World",R.mipmap.ic_launcher,0).show();
+
 The others are build-in methods that you can make a nice Toast easily and quickly.
